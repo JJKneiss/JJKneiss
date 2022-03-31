@@ -8,4 +8,4 @@ I'm a backend focused web developer with an eye for frontend design. Currently m
 
 - 📫 Add me on LinkedIn (https://www.linkedin.com/in/jjkneiss/) to reach out or leave a message on the discussions board in this repo! 
 
-<a href="https://app.daily.dev/PunkDevJay"><img src="https://api.daily.dev/devcards/4c6d5400319145a9b7ae4d08ade4d914.png?r=oog" width="400" alt="Jay Kneiss's Dev Card"/></a>
+<a href="https://app.daily.dev/PunkDevJay"><img src="https://api.daily.dev/devcards/4c6d5400319145a9b7ae4d08ade4d914.png?r=ofb" width="400" alt="Jay Kneiss's Dev Card"/></a>
